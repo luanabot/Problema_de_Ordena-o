@@ -154,6 +154,8 @@ intercalar as partes ordenadas
 | 1.000.000 | Médio | 14 ms | 2 ms |
 | 1.000.000 | Pior | 10.274.609 ms | 126 ms |
 
+<img width="743" height="445" alt="image" src="https://github.com/user-attachments/assets/2c157910-a57e-459e-bd22-4594493293a3" />
+
 ---
 
 ## 4. Análise Crítica
