@@ -155,6 +155,11 @@ intercalar as partes ordenadas
 | 1.000.000 | Pior | 10.274.609 ms | 126 ms |
 
 <img width="743" height="445" alt="image" src="https://github.com/user-attachments/assets/2c157910-a57e-459e-bd22-4594493293a3" />
+<img width="750" height="454" alt="image" src="https://github.com/user-attachments/assets/d4d920a2-1d32-4759-8a15-a720f7faffd4" />
+<img width="750" height="415" alt="image" src="https://github.com/user-attachments/assets/2952188c-9459-4f8c-8bec-49dafdb5451a" />
+<img width="708" height="411" alt="image" src="https://github.com/user-attachments/assets/fd3e8af4-77e9-41d9-9de1-9b3d1047bcfa" />
+<img width="748" height="404" alt="image" src="https://github.com/user-attachments/assets/71be40cd-ddbd-4ca7-9174-251b52f6cbeb" />
+
 
 ---
 
