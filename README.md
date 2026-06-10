@@ -149,8 +149,8 @@ intercalar as partes ordenadas
 |-------------------|-------|------------|------------|
 | 1.000 | Melhor | 0 ms | 1 ms |
 | 1.000 | Médio | 14 ms | 2 ms |
-| 1.000 | Pior | 16 ms | 2 ms |
-| 1.000.000 | Melhor | 0 ms | 120 ms |
+| 1.000 | Pior | 10 ms | 2 ms |
+| 1.000.000 | Melhor | 11 ms | 144 ms |
 | 1.000.000 | Médio | 14 ms | 2 ms |
 | 1.000.000 | Pior | 10.274.609 ms | 126 ms |
 
