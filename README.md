@@ -133,13 +133,13 @@ intercalar as partes ordenadas
 |--------|------------|------------|
 | Melhor Caso | 0 ms | 1 ms |
 | Caso Médio | 14 ms | 2 ms |
-| Pior Caso | 16 ms | 2 ms |
+| Pior Caso | 10 ms | 2 ms |
 
 ### Arquivos com 1.000.000 elementos
 
 | Caso | Bubble Sort | Merge Sort |
 |--------|------------|------------|
-| Melhor Caso | 0 ms | 120 ms |
+| Melhor Caso | 11 ms | 144 ms |
 | Caso Médio | 14 ms | 2 ms |
 | Pior Caso | 10.274.609 ms | 126 ms |
 
